@@ -36,8 +36,8 @@ _Add screenshots or GIFs here if available._
 Clone the repository and run locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/NexFour-Studio/Elionor-Candle-Website-Demo.git
+cd Elionor-Candle-Website-Demo
 npm install
 npm run dev   # or npm start for CRA
 ```
